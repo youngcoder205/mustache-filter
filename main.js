@@ -5,7 +5,7 @@ nosey = 0
 
 function preload() {
 
-butterfly = loadImage("https://i.postimg.cc/Px6F1Qww/ujZ3X.png")
+butterfly = loadImage("https://i.postimg.cc/W3tY3ZQP/mustache-by-hurricamo-on-deviantart-10.png")
 
 }
 
